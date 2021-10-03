@@ -1,1 +1,1 @@
-alert('assas');
+// ex 1
