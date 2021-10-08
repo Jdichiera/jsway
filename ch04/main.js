@@ -6,7 +6,7 @@ for (i = 1; i <= rotations; i++) {
 	console.log(` --== rotation ${i} ==-- `)
 }
 
-ex 4
+// ex 4
 const input = prompt('Enter a number between 2 and 9 and I will display the associated multiplication table.');
 if (input > 1 && input < 10) {
 	for(i = 0; i <= 10; i++) {
